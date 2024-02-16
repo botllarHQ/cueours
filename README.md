@@ -6,7 +6,7 @@
 > Cueours as above expressed, is a file container for javascript snippets.
 
 ## FEEDBACK
-If you have any feedback or issue(s) concerning this file, you can reach out to me at [kufrefkoffi@gmail.com](https://www.kufrefkoffi@gmail.com) for further discussions.
+If you have any feedback or issue(s) concerning this file, you can reach out to me at **kufrefkoffi@gmail.com** for further discussions.
 
 > [!IMPORTANT]
 > ## LICENSE
