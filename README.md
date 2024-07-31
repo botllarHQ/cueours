@@ -1,5 +1,5 @@
 # cueours
-> cueours: an e-commerce structured website.
+> cueours: an e-commerce structure Javascript snippet container | algorithm modifier.
 
 ## What You Should Know About This Repo:
 > [!NOTE]
